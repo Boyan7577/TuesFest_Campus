@@ -5,7 +5,7 @@
 
 ## **Topic:** Campus Network System Design
 
-[Presentation Link]([https://docs.google.com/presentation/d/1xKrdEx5WutEBlKBfqhGEVZVbmXB95YIFaPxNMCnFgaQ/edit#slide=id.g10f774c2156_0_0](https://docs.google.com/presentation/d/1rxRD6WYPAvBleee2LvF2E-ewOiCFcYbaYSfmtWobHrQ/edit#slide=id.p)
+[Presentation Link](https://docs.google.com/presentation/d/1rxRD6WYPAvBleee2LvF2E-ewOiCFcYbaYSfmtWobHrQ/edit#slide=id.p)
 
 
 ## **Description:** 
